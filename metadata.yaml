@@ -1,0 +1,28 @@
+_repo: The-Old-Chelsea-Bun-House-A-Tale-of-the-Last-Century_51829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manning, Anne
+    aliases:
+    - Manning, A. (Anne)
+    - More, Margareta
+    birthdate: 1807
+    deathdate: 1879
+    gutenberg_agent_id: '5275'
+    url: http://www.gutenberg.org/2009/agents/5275
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Manning
+description: ''
+gutenberg_issued: '2016-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 18th century -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Old Chelsea Bun-House: A Tale of the Last Century'
+url: http://www.gutenberg.org/ebooks/51829
