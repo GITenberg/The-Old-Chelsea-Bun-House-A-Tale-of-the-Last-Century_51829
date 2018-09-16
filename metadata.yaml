@@ -1,5 +1,8 @@
 _repo: The-Old-Chelsea-Bun-House-A-Tale-of-the-Last-Century_51829
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51829-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Manning, Anne
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5275
     wikipedia: http://en.wikipedia.org/wiki/Anne_Manning
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51829#The-Old-Chelsea-Bun-House-A-Tale-of-the-Last-Century
 gutenberg_issued: '2016-04-22'
 gutenberg_type: Text
 identifiers:
